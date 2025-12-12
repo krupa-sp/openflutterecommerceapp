@@ -89,3 +89,4 @@ The example for VS Code is below:
             "type": "dart"
         }
     ]
+    **Updated by Krupa S.P."**
